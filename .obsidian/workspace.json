@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "b77793e2e4e0e292",
+    "type": "split",
+    "children": [
+      {
+        "id": "d71cb041cbf19452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5330b8917c90cc0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f611d185422cb9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f84dd7a4ae810a29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac98c0c76050a984",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7d3ba927e3a8779",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "artefa",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "be189f8363e380b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86957f1bef69516e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5acfc85e9cac749d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34ffef6338f7d657",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Postacie/Estarosa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Estarosa"
+            }
+          },
+          {
+            "id": "809311933736fab3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "a5a936c2dfc26a83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37901eb8197fc1d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ac98c0c76050a984",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Postacie/Scari.md",
+    "Wydarzenia/Drugi Cykl.md",
+    "Lore/Artefaktyczne Społeczeństwo.md",
+    "Postacie/Albia Rosa.md",
+    "Postacie/Altum.md",
+    "Postacie/Lucy Shealez.md",
+    "Lore/Pokój.md",
+    "Postacie/Eimhrick.md",
+    "Postacie/Ciaran Conejero.md",
+    "Postacie/Ava Schieberg.md",
+    "Postacie/Noara Schieberg.md",
+    "Postacie/Cilla Scari.md",
+    "Postacie/Nadzieja.md",
+    "Postacie/Laxus Viridian.md",
+    "Postacie/Lucjusz Alvinbratten.md",
+    "Postacie/Abis-Lucio.md",
+    "Postacie/Przepaść.md",
+    "Lore/Eon.md",
+    "Postacie/Antarosa.md",
+    "Postacie/Antvel Heinster.md",
+    "Postacie/Lilarosa.md",
+    "Lore/Kotara.md",
+    "Lore/Siostra w Pyle.md",
+    "Postacie/Liamara Samir Romaba Akallaba.md",
+    "Lore/Poszukujące.md",
+    "Lore",
+    "Wydarzenia",
+    "Miejsca",
+    "Postacie"
+  ]
+}
