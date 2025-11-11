@@ -1,0 +1,3 @@
+[[Cykl]] czwarty, czas Drugiej Cywilizacji, gdzie ukształtowała się bardzo mistyczna [[Cywilizacja Szlachetnych]] na warstwie czerwieni - [[Devi]] -  zaatakowana przez trójiglicową [[Spójność Ank'ara]] a po zwycięstwie, dzieci Spójności, ludzkie cymbały bijąc się między sobą sprowadziły [[Derniere]]'a. Powstaje [[Imperium]] i [[Ludy poza Imperium]]
+
+Pojawienie się Derniere powoduje, że MUSI nastąpić jakaś drastyczna zmiana, niekoniecznie anihilacja, ale np. zmiana dominacji cywilizacji

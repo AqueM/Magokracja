@@ -1,0 +1,12 @@
+---
+tags:
+  - Mag/Kolorów
+  - Vanta
+---
+Pochodzący z [[Nicość|Nicości]] 
+~~Właściciel [[Ogrody Rosa|Ogrodów Rosa]] ?~~ Jeden z [[Ogrody Rosa]]. Melodia ??? nie wiemy kogo.
+Mylnie brany za inkarnację [[Vanta]]. Powiązany z [[Lucerna|Lucerną]], zachowuje się jak w niej zakochany.
+
+W przeszłosci _pilnowany_ przez [[Eimhrick|Eimhricka]], [[Scari|Skariego]] i [[Maygren|Maygrena]].
+
+Posiada magiczną [[Gitara Kolorów]] nasyconą przez [[Lucy Shealez|Lucy]], [[Lucjusz Alvinbratten|Lucjusza]] i [[Ciaran Conejero|Ciarana]].

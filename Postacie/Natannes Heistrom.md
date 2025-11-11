@@ -1,0 +1,6 @@
+---
+tags:
+  - człowiek
+  - Mag
+---
+[[Imperator]]

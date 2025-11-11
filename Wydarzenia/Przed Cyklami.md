@@ -1,0 +1,1 @@
+okres "przed [[Cykl]]ami" (wszystko, co tam zaistniało, trafiło do pieca Hel i powstało wszystko od nowa), stamtąd potencjalnie jest [[Estarosa]] i [[Lucerna]]

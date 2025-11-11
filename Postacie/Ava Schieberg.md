@@ -1,0 +1,1 @@
+W przyszłości [[Imperator]] jeśli zwycięży [[Pokój]] [[Lucy Shealez]] lub [[Noara Schieberg]]

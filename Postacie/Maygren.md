@@ -1,0 +1,5 @@
+---
+tags:
+  - Psyh
+  - Mag/Kolorów
+---

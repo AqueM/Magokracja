@@ -1,0 +1,1 @@
+Nominalny tytuł głównego dowódcy [[asasyni imperialni]], w gruncie rzeczy jest tylko twarzą organizacji, gdyż realnie dowodzi [[Czwórka Asasynów]]. Przyznany po jego utwoprzniu znanej asasynce [[Fleura Knadr]]. 

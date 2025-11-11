@@ -1,0 +1,1 @@
+Nazwa na [[magia|maga]] z ludności [[Imperium]], który stanął przeciwko władzy imperialnej, prawom i magicznym zasadom u podwalin Imperium, tj. przeciwko magokracji, np. supremacji magów, władzy Imperatora, włądzy Pierwszeych w rodach itp. 

@@ -1,0 +1,1 @@
+Z ludu [[Noc Obsydianu]], jedna z [[Poszukujące]]

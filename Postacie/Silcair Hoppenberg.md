@@ -1,0 +1,1 @@
+Pan na zamku Otha (co znaczy Pokój w j. strom), wykładowca Szkoły Masek

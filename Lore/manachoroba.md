@@ -1,0 +1,1 @@
+Niekontrolowany nadmiar [[mana]] w istocie. Powoduje magiczne efekty związane z tą istotą.

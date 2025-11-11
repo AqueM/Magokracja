@@ -1,0 +1,5 @@
+---
+aliases:
+  - Berr Grath
+---
+[[Eclipse]]
