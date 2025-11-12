@@ -26,7 +26,7 @@ Taki "wylew Kotary" jest zatem w gruncie rzeczy wylewem losowych innych warstw.
 
 # Głęboka Kotara / subkotara
 Kotarę porównuje się do oceanu, gdzie im głębiej, tym "dziwniejsze" rzeczy można znaleźć, ale i tym mniej dostępna się ona staje. 
-W teorii [[Dalian Plateur]], Głęboka Kotara w tej metaforze staje się dnem oceanu: tak pozbawiona [[Strumień|dźwięków]] jak dno jest pozbawione światła, coś niemal "pod" bądź nawet "poza" Kotarą właściwą, a także nie "należącą" do żadnej z warstw.
+W teorii [[Dallian Plateur]], Głęboka Kotara w tej metaforze staje się dnem oceanu: tak pozbawiona [[Strumień|dźwięków]] jak dno jest pozbawione światła, coś niemal "pod" bądź nawet "poza" Kotarą właściwą, a także nie "należącą" do żadnej z warstw.
 
 Faktycznie, Głęboka Kotara jest "Kotarą Kotary", tj. jej odbiciem i zapisem. Jest jednak wysoce zniekształcona, przez co choć myśli i rzeczywistość "płyną" tak samo jak w płytkiej Kotarze, nie zapisują się lub zapisują się zniekształcone i częściowe, jako [[echo]]. 
 

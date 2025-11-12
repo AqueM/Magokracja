@@ -5,3 +5,5 @@ tags:
 ---
 Feniks, champion warstwy [[Hel]] w [[Pierwszy Cykl]].
 Walczyła z [[Ferarosa]].
+
+[[Lucy Shealez]]

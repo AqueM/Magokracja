@@ -3,7 +3,7 @@ Przed [[Bitwa o Caspię]] byli oni w jurysdykcji Pierwszego [[Rozjemcy imperialn
 # Znani członkowie
 - [[Luca Ataliatte]]
 - [[Pelona Tegeura]]
-- [[Dalian Plateur]]
+- [[Dallian Plateur]]
 - [[Fleura Knadr]]
 - [[Gethis Ataliatte]] 
 - [[Floril di Lauberg]]

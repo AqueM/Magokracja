@@ -8,6 +8,6 @@ Obecnie mówi się o pokoleniu ‘Róż Imperialnych’, dzieci ‘Złotych’, 
 
 >Roku istnienia Imperium 466-tego, to jest roku po bogach 1340.
 >
->Ja, Tribon Sima Apaleo Tertusa, z nadania Nasizara z Tertusów Pan Pięciu Iglic Imperium, Najwyższy Majestat, Imperator Czterech Koron nakazuję, co poniżej.
+>Ja, Tribon Sima Apaleo Tertusa, z nadania Nasizara z Tertusów, Pan Pięciu Iglic Imperium, Najwyższy Majestat, Imperator Czterech Koron nakazuję, co poniżej.
 >
 >Pierwszym spośród rodów, by nowe pokolenia wzmocnić, uratować z coraz bardziej rozrzedzającej się krwi, by nowym pokoleniom wzmocnić magię a przy tym i siłę, jaką dysponuje Imperium, nakazuję, by zacieśnić praktyki dobierania małżonków, by silni sparowani byli z silnymi.

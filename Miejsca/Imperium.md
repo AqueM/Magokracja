@@ -1,4 +1,4 @@
-Państwo pod władzą [[Imperator]] skłądające się z historycznych krain zwanych Cztery Korony. Podlegało do niedawna wpływom [[Iglica Imperialna]]. 
+Państwo pod władzą [[Imperator]] składające się z historycznych krain zwanych Cztery Korony. Podlegało do niedawna wpływom [[Iglica Imperialna]]. 
 # Historia
 1. Prahistoria - brak kronik - życie ludzi pod butem [[Setron|bogowie]]. Nie istnieją magowie, ludzie nie mają w ogóle magii
 2. Wojny pomiędzy bogami - powstaje wiele magicznych bestii zwanych "bogobójcami"
@@ -13,7 +13,7 @@ Państwo pod władzą [[Imperator]] skłądające się z historycznych krain zwa
 	5. Dom Spektrum Zmysłów mozolnie, ale skutecznie zajął wschodnie wybrzeże obszaru odebranego bogom, otwierając się na Morze Wichrów, budując tak pierwszy zamorski szlak handlowy z inną cywilizacją.
 7. 594 - Pierwsza duża ludzka wojna, Królestwa Comnouve przeciw Księstwom Nadmorskim Białego Kryształu. Używają Eonów, co jest bardzo niszczycielskie. Z czasem, z bitwy na bitwę, ilość Eonów spadała na tyle, by przestały być używane na dużą skalę.
 8. 632 - [[Bitwa Zaćmienia]] kończy wojnę między Spektrum Emocji i Spektrum Świadomości. Powstaje **Unia Kryształów i Korony**, na której czele staje [[Armada Dioge Henrigo Veleach]] ze Spektrum Emocji
-9. 778 - 781 - [[Wojna Czystki Krwi]] - wybicie Spektrum Strun na teranach współczesnego Imperium
+9. 778 - 781 - [[Wojna Czystki Krwi]] - wybicie Spektrum Strun na terenach współczesnego Imperium
 10. 817 - 856 - [[Wojna o Wybrzeże Turkusowe]] - kończy się przyłączeniem Spektrum Ciała do Unii i powstaniem **Imperium Trzech Koron**, którego pierwszy Imperator to Komnus Plater Soyescari, założyciel rodu Plateur
 11. 954 - Królestwo Strom dołącza do Imperium pokojowo, tworząc **Imperium Czterech Koron** z Aillia Comnouve na czele.
 12. około 1024 - 1124 - Złoty Wiek Imperium

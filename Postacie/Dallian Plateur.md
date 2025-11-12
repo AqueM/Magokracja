@@ -3,10 +3,10 @@ tags:
   - człowiek
   - Konstrukt
 ---
-Znany jako profesor spektrum Świadomości, jeden z [[Łowcy imperialni]] i [[asasyni imperialni]], sławny z zarządzania kilkoma [[Eon]]. Wuj [[Luca Ataliatte]]. 
+Znany jako profesor spektrum Świadomości, jeden z [[Łowcy imperialni]] i [[asasyni imperialni]], sławny z zarządzania kilkoma [[Eon]]. Wuj [[Luca Ataliatte]].
 
 W rzeczywistości był to [[Setron]] służący [[Iglica Imperialna]]:  v Iv · Prinomy · Delia ∘ Setrön v
-W czasach, gdy Iglica jeszcze działała, przybrał z jej instrukcji ludzką formę i wtopił się w ludzką społeczność. Aby iluzja była pełna, Iglica "pozbawiła" go pamięci, o tym, czym jest naprawdę, więc gdy Iglica przestała poprawnie działać ze względu na [[Tertusa]], który wyjął z niej klucz nadrzędny, Dalian nie miał szans zorientować się, czym jest. Tak trwał, za czasów Imperatora Komnusa Platera Soyescari przybierając nazwisko Plateur. 
+W czasach, gdy Iglica jeszcze działała, przybrał z jej instrukcji ludzką formę i wtopił się w ludzką społeczność. Aby iluzja była pełna, Iglica "pozbawiła" go pamięci, o tym, czym jest naprawdę, więc gdy Iglica przestała poprawnie działać ze względu na [[Tertusa]], który wyjął z niej klucz nadrzędny, Dallian nie miał szans zorientować się, czym jest. Tak trwał, za czasów Imperatora Komnusa Platera Soyescari przybierając nazwisko Plateur. 
 
 Mając poczucie, że coś jest nie tak na świecie, ale nie wiedząc co - uczucie które wynikało z braku dostępu do Iglicy - zaczął badać wszystko, co mógł, poszukując dziwactw i tajemnic. 
 
@@ -14,10 +14,10 @@ Mając poczucie, że coś jest nie tak na świecie, ale nie wiedząc co - uczuci
 Jako Łowca, w czasach współczesnych, posiadał klucze imperialne do eonów Gracja, Jedność, Niezłomność i Uprzejmość. 
 # Skiala
 Pewnego razu, w czasach współczesnych, trafił na ślady [[Cywilizacja Przodków]], po czym zaczął zgłębiać obsesyjnie temat [[Spójności|elementu Skiala]]. Ostatecznie udało mu się sprowadzić "zza Kotary" faktyczną [[Skiala]] za rządów Tribona Tertusy. Przybrała ona nazwisko [[Skiala|Skiala Berggrath]].
-Dalian próbował wytłumaczyć jej świat, ale robił to z perspektywy asasyna, więc większosć wiedzy Skiali obracała się dookoła przemocy. Nie rozumiejac do końca konsekwencji swoich czynów, zabiła ona uczennicę Daliana, młodą asasynkę [[Atrnika Berggrath]]. 
+Dallian próbował wytłumaczyć jej świat, ale robił to z perspektywy asasyna, więc większość wiedzy Skiali obracała się dookoła przemocy. Nie rozumiejąc do końca konsekwencji swoich czynów, zabiła ona uczennicę Dalliana, młodą asasynkę [[Atrnika Berggrath]]. 
 W szoku, opuścił on miejsce zbrodni i porzucił Skialę. 
 
-W późniejszym czasie, pomożono im nawiażać na nowo nić porozumienia, dzięki czemu Dalian wziął na siebie odpowiedzialność za sytuację i za Skialę. Pomógł w tym fakt, że Skiala przyprowadziła przed Daliana żywą Atrnikę - doptąd nie wiadomo, jak i skąd ??
+W późniejszym czasie, pomożono im nawiązać na nowo nić porozumienia, dzięki czemu Dallian wziął na siebie odpowiedzialność za sytuację i za Skialę. Pomógł w tym fakt, że Skiala przyprowadziła przed Dalliana żywą Atrnikę - dotąd nie wiadomo, jak i skąd ??
 # Orszak Abradean Garghais
 Przez długi czas, w czasach współczesnych, służył w świcie [[Abradean Garghais]], razem z [[Leypia Mekontion]] i [[Niebieskie Piórko]]. Mieli wiele wielkich przygód, żartując nawet że "ratowali świat co wtorek". 
 # Cisza

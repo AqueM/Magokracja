@@ -3,4 +3,4 @@ tags:
   - Iv
   - TubylecWarstwy
 ---
-Manifestacja [[Dalian Plateur]] w [[Artefaktyczne Społeczeństwo]].
+Manifestacja [[Dallian Plateur]] w [[Artefaktyczne Społeczeństwo]].

@@ -9,14 +9,14 @@ tags:
 aliases:
   - Czujny Powój
 ---
-W [[Pierwszy Cykl]] przysięgał wierność [[Lucy Shealez|Hagarth-Satra]], był jej pierwszym magiem i heraldem, doradcą i prawą ręką. 
+W [[Pierwszy Cykl]] przysięgał wierność [[Hagarth-Satra]], był jej pierwszym magiem i heroldem, doradcą i prawą ręką.
 
 Pochodzi ze [[Świat Pyłu]], oficjalnie jako "Czujny [[Powój]]" jest jego [[Strażnik]]iem, ale prawdopodobnie jest (też) Strażnikiem [[Estarosa]]. Dzisiaj champion [[Iv]].
 
 
 Przełożony/towarzysz [[Nagrar-Stirn]]. 
 
-Jeden z pięciu decydujacych o [[Pokój]]. 
+Jeden z pięciu decydujących o [[Pokój]]. 
 
 "Lie to all even if you do not mean it, they will not be disappointed."
 "If someone threatens you with ‘death’, tell them, Death is your friend."

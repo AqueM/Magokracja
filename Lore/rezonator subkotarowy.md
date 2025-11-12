@@ -2,7 +2,7 @@ Zbudowany na bazie klarnetu przedmiot magiczny, który pozwala grać dzwięki w 
 
 Dźwięki tego "instrumentu" są wyjątkowo przyjemne, wręcz hipnotyczne, dla [[Melodia]]. 
 
-Wykonany przez [[Dalian Plateur]], aktualnie w posiadaniu [[Johan Ekbert]].
+Wykonany przez [[Dallian Plateur]], aktualnie w posiadaniu [[Johan Ekbert]].
 
 # Z książki "Rezonacja subkotarowa" Daliana Plateur
 

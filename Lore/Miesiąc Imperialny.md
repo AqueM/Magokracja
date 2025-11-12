@@ -9,7 +9,7 @@ Przeprowadzano "wybory" na nowe stanowisko [[Imperatorowa]]. Z 10 kandydatek, wy
 
 [[Lucy Shealez]], [[Luca Ataliatte]] i [[Lucjusz Alvinbratten]] rozwiązują problem [[Niebieskie Piórko|Tysiąca Piórek]]
 
-Ponownie pojawia się na świecie [[Visena Shealez]], prowadzona teraz przez [[Cisza]]. Dzięki temu też, [[Dalian Plateur]] rozwiazuje swój dramat z Ciszą i [[Skiala]].
+Ponownie pojawia się na świecie [[Visena Shealez]], prowadzona teraz przez [[Cisza]]. Dzięki temu też, [[Dallian Plateur]] rozwiazuje swój dramat z Ciszą i [[Skiala]].
 
 Pod koniec nastąpiła [[Bitwa o Caspię]].
 

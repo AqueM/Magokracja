@@ -8,4 +8,4 @@ Do obowiązków łowcy należy polowanie na [[Setron|bogów]], istoty zza [[Kota
 - [[Leon Heistrom]]
 - [[Pijawka]]
 - [[Czerwona Wilczyca]] i [[Eriend Grath]] razem jako "Kryształowi Imperatorzy"
-- [[Dalian Plateur]]
+- [[Dallian Plateur]]

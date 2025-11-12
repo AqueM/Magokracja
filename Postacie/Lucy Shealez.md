@@ -6,17 +6,19 @@ tags:
   - Decydujący
 aliases:
 ---
-Doktro magii Pyłu, żona [[Albia Rosa]]. Jedna z [[Rozjemcy imperialni]] z polecenia [[Abradean Garghais]], przysięgła wierność [[Natannes Heistrom|Natannesowi Heistrom]] jako Imperatorowi. Córka Tearlacha Shealeza, zaufanego Garghaisa. Jego śmierć zbliżyła Lucy i Garghaisa do siebie, ostatecznie sprawiajac, że przekazał jej pieczę nad swoimi sprawami rozjemczymi.
+Doktor magii Pyłu, żona [[Albia Rosa]]. Jedna z [[Rozjemcy imperialni]] z polecenia [[Abradean Garghais]], przysięgła wierność [[Natannes Heistrom|Natannesowi Heistrom]] jako Imperatorowi. Córka Tearlacha Shealeza, zaufanego Garghaisa. Jego śmierć zbliżyła Lucy i Garghaisa do siebie, ostatecznie sprawiając, że przekazał jej pieczę nad swoimi sprawami rozjemczymi.
+
+W ostatnich miesiącach podróżuje/podróżowała z [[Lucjusz Alvinbratten]], [[Luca Ataliatte]] i [[Ciaran Conejero]].
 
 Dzieli zarówno Melodię, jak i Powój z championem warstwy [[Hel]] w Pierwszym Cyklu, [[Hagarth-Satra]]. Jej Melodia to [[Ferarosa]], a jej Powój to [[Acnologia]].
 
 Związana ze [[Świat Pyłu]] jako [[Siostra w Pyle]]. Posługuje się każdym [[Pył]] poza Białym.
 
-Jedna z pięciu decydujacych o [[Pokój]].
+Jedna z pięciu decydujących o [[Pokój]].
 # Przygody
 - Dużą część swojej młodości poświęciła na poszukiwania zaginionej kuzynki, [[Visena Shealez]]. W tym okresie spotkała też [[Cilla Scari|Calvara Taragain]].
 - Podczas wykonywania zadań dla Garghaisa, zaznajomiła się z [[Liamara Samir Romaba Akallaba]].
-- W [[Vazar]] dźgnęła [[Octavian Krwawy]] tak, że jego esencja została uwięziona w ogrodzie Ferrarosy, dzięki czmu "wyciszyła" [[echo]] [[Octavian]] - dopóki nie zostanie z tego ogrodu wyciagnięty, nie będzie mógł się ponownie odtworzony w nowym Cyklu. 
+- W [[Vazar]] dźgnęła [[Octavian Krwawy]] tak, że jego esencja została uwięziona w ogrodzie Ferarosy, dzięki czemu "wyciszyła" [[echo]] [[Octavian]] - dopóki nie zostanie z tego ogrodu wyciągnięty, nie będzie mógł się ponownie odtworzony w nowym Cyklu. 
 # Przemyślenia nad pokojem
 “Od mojego przybycia do stolicy miesiąc temu wiele widziałam, wiele rzeczy zrozumiałam, przeanalizowałam i wyciągnęłam wnioski. I chyba po raz pierwszy w życiu sformułowały się moje poglądy w konkretny sposób. 
 

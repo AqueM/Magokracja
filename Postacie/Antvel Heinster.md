@@ -5,5 +5,5 @@ tags:
   - Strumień
   - Decydujący
 ---
-Jeden z pięciu decydujacych o [[Pokój]] 
+Jeden z pięciu decydujących o [[Pokój]] 
 [[Świat Pyłu]]

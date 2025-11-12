@@ -2,11 +2,11 @@
 tags:
   - Iv
 ---
-Część warstwy Iv/grupa która powstało po uwolnieniu [[Eon]]ów od [[Klucze Nasizara]]. 
+Część warstwy Iv/grupa która powstała po uwolnieniu [[Eon]]ów od [[Klucze Nasizara]]. 
 
 Jego członkowie mają natywne formy energetyczne jak istoty [[Iv]], niezależnie od tego, kim byli przed dołączeniem. Ci które były kiedyś eonami na [[Devi]] zwykle "ubierają" golemy z [[eonmetal]]. Pozostałe zwyczajnie kształtują swoją energię w wybraną formę. Na Iv/na terenie Artefaktycznego Społeczeństwa posługują się swoim "nowym" imieniem i posiadają związane z nim moce, tak samo jak inne natywne istoty Iv, tj.  _są_ tubylcami Iv.
 
-Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze lub nawet zostanie kompletnie wymazany ze [[Strumień]], jego manifestacja w Artefaktycznym pozostanie i bęzie dalej "żyć" i funkcjonować. 
+Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze lub nawet zostanie kompletnie wymazany ze [[Strumień]], jego manifestacja w Artefaktycznym pozostanie i będzie dalej "żyć" i funkcjonować. 
 # Członkowie
 - [[Justinian]]
 - [[Biały Cień]]
@@ -39,6 +39,8 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 - Przezorność
 - Samotność
 - Wiśnia
+- [[Nasizar]]
+
 
 # Typy
 
