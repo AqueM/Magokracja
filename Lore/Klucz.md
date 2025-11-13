@@ -2,4 +2,4 @@
 tags:
   - Psyh
 ---
-Mniejsza forma [[Symbol]], jeden z rodzajów [[magia]]
+Mniejsza forma [[Symbol]], jeden z rodzajów [[magia]] oraz trzecia podstawa zasad działania magii.

@@ -8,10 +8,10 @@ Przed [[Bitwa o Caspię]] byli oni w jurysdykcji Pierwszego [[Rozjemcy imperialn
 - [[Gethis Ataliatte]] 
 - [[Floril di Lauberg]]
 - [[Niebieskie Piórko]]
-- Leancis z [[Krondstadt]]
+- Leancis Diogein z [[Krondstadt]]
 - [[Zielone Piórko]]
 - Flavia Suer
-- Georgiome Boudycas
+- Georgiome Boudycas z [[Krondstadt]]
 - Jacoob Suer
 - Mbaga Suer
 - Seaulius Suer
@@ -19,4 +19,7 @@ Przed [[Bitwa o Caspię]] byli oni w jurysdykcji Pierwszego [[Rozjemcy imperialn
 - Alara Mekontion
 - Alois
 - Talanta "Tysiac Mieczy" de Korylion
-- [[Erzsebeth Mirtlass]]
+- [[Erzsebeth Mirtlass]] z [[Vazar]]
+- Flynn Tokleos z [[Vazar]]
+- Lamira z [[Vazar]]
+- Balaga Hestus Galech z [[Vazar]]

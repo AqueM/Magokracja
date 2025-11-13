@@ -1,0 +1,11 @@
+---
+tags:
+  - człowiek
+  - Mag/Kolorów
+  - Vorel
+  - Iv
+---
+Twórca [[Nasizar Tertusa]].
+Wśród miejskiego i wiejskiego ludu Imperium znany/a jako "Mądra baba".
+Człowiek spoza Devi, aktualnie zamieszkujący w [[Kraina Qa]], swobodnie zmieniający postacie.
+Posługuje się Białym [[Pył]]em, dowolną magią kolorów jak również swobodnie dokonuje rozbłysku tożsamego z  [[Artefaktyczne Społeczeństwo]].

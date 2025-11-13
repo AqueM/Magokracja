@@ -1,4 +1,4 @@
-- [[Kai Tamcibay]]
+* [[Kai Tamcibay]]
 - [[Julius Pretres]]
 - [[Cilla Scari]]
 - [[Leon Heistrom]]

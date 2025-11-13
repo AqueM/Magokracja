@@ -4,3 +4,7 @@ Jest ich zawsze dwie, z czego jedną z nich jest zawsze [[Cisza]].
 # Aktualne Siostry w Pyle:
 - [[Lucy Shealez]]
 - [[Cilla Scari]]
+# Pierwsze Siostry w Pyle:
+- [[Hagarth-Satra]]
+- [[Ferarosa]]
+xxx (???)

@@ -1,6 +1,6 @@
 Efekt dotknięcia istoty o niskim pozomie [[mana]] (np. zwierzęcia) przez jakiś konkretny [[kolory many]] do tego stopia, że wywołuje to zmiany/mutacje fizyczne i nadaje jej magiczne właściwości z zakresu danego koloru. 
 
-Przykładowe manatknięte zwierzęta znane w Imperium:
+Powszechnie znane manatknięte zwierzęta w Imperium:
 - jeleń marteński
 - wilki cieniste
 - jaszczur halbaski

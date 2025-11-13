@@ -1,9 +1,10 @@
-[[kolory many]]
+
 [[magia kolorów]]
 Zdolność manpulacji [[mana]] poprzez wsparcie technologiczne, zwykle w formie [[Spójności]].
-# Spektra, kolory i typy magii wg ludzi
+# Spektra, kolory, zasady i typy magii wg ludzi
  Zauważ brak Nute ze względu na to, że ludzie nie znali/nie mogli postrzegać dotąd tego koloru, więc nie mogli go rozróżnić.
- Oznacza to, że wkrótce pradopodobnie dwie z magii przestaną być domeną Psyh i staną się domeną Nute. 
+ Oznacza to, że wkrótce pradopodobnie dwie z magii przestaną być domeną Psyh i staną się domeną Nute.
+ 
 [[Iglica Imperialna]]
 - Świadomość
 	- Władza (Soye)
@@ -28,10 +29,14 @@ Zdolność manpulacji [[mana]] poprzez wsparcie technologiczne, zwykle w formie 
 - Przepływ
 	- Panowanie (Soye)
 	- Wcielanie (Lune)
+
 [[Daleka Iglica]] - według teorii naukowych Imperium
 - Zasady ?
 	- Vanta
 	- Vorel
 
+Trzy podstawy magii, by zadziałała, to:
+* Brama (do czegoś)
+* Powiązanie (od czegoś do czegoś)
+* Klucz (otwierający Bramę poprzez istniejące Powiązanie)
 
- 
