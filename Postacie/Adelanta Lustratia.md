@@ -3,7 +3,7 @@ tags:
   - TubylecWarstwy
   - Nute
 ---
-Melodia [[Luilla Alvinbratten]], [[Symbol]] lotnego [[Stan Many]].
+Melodia [[Luille Alvibraten]], [[Symbol]] lotnego [[Stan Many]].
 
 Dominująca istota, przekonuje innych do usrania. 
 

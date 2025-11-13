@@ -1,1 +1,1 @@
-okres "przed [[Cykl]]ami" (wszystko, co tam zaistniało, trafiło do pieca Hel i powstało wszystko od nowa), stamtąd potencjalnie jest [[Estarosa]] i [[Lucerna]]
+Okres "przed [[Cykl]]ami" (wszystko, co tam zaistniało, trafiło do [[Vorel|pieca hel]] i powstało wszystko od nowa), stamtąd potencjalnie jest [[Estarosa]] i [[Lucerna]], ale to nie są potwierdzone informacje przez **jakąkolwiek** istotę, która obecnie istnieje, choćby ponad Cyklami (np. Sędziowie).

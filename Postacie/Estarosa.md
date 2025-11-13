@@ -9,4 +9,4 @@ Mylnie brany za inkarnację [[Vanta]]. Powiązany z [[Lucerna|Lucerną]], zachow
 
 W przeszłosci _pilnowany_ przez [[Eimhrick|Eimhricka]], [[Scari|Skariego]] i [[Maygren|Maygrena]].
 
-Posiada magiczną [[Gitara Kolorów]] nasyconą przez [[Lucy Shealez|Lucy]], [[Lucjusz Alvinbratten|Lucjusza]] i [[Ciaran Conejero|Ciarana]].
+Posiada magiczną [[Gitara Kolorów]] nasyconą przez [[Lucy Shealez|Lucy]], [[Lucjusz Alvibraten|Lucjusza]] i [[Ciaran Conejero|Ciarana]].

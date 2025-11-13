@@ -4,7 +4,7 @@ Do obowiązków łowcy należy polowanie na [[Setron|bogów]], istoty zza [[Kota
 # Znani Łowcy
 - [[Iriand Augu]], osobiście i jako Leypia (w tej iteracji Strumienia, aktualna nie-Iriand Leypia nigdy nie była Łowcą)
 - [[Scari]]
-- [[Lucjusz Alvinbratten]]
+- [[Lucjusz Alvibraten]]
 - [[Leon Heistrom]]
 - [[Pijawka]]
 - [[Czerwona Wilczyca]] i [[Eriend Grath]] razem jako "Kryształowi Imperatorzy"

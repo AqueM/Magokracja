@@ -7,3 +7,4 @@ tags:
 ---
 Jeden z pięciu decydujących o [[Pokój]] 
 [[Świat Pyłu]]
+[[Magokraci Netheru]]

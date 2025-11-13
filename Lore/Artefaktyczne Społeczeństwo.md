@@ -63,6 +63,7 @@ Są niezależni od istot, które są ich "pierwowzorami": jeśli człowiek umrze
 - Szlachetny - wirtuoz Społeczności; proponuje udoskonalenia pracy i dzieł innych typów
 - Psyh - mędrzec Społeczności; figura obrońcy, nauczyciela i przewodnika społeczności
 - Soye - obserwator Społeczności; figura "bibliotekarza", konstruktywnego krytyka społeczności
+  Idea w tym Społeczeństwie spełniająca tą samą funkcję, co [[Sędzia]] w Cyklu
 - Harmonia - uzdrowiciel Społeczności; dba o poprawny przepływ wszelkiej many
 - Nova - kolejna generacja Artefaktycznego Społeczeństwa, pierwsi "natywni" a nie "przybyli"
 - Unity - lider/rodzic Społeczności; nadrzędna figura, reprezentant wartości, możliwości i potęgi

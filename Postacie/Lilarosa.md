@@ -3,4 +3,4 @@ tags:
   - TubylecWarstwy
   - Psyh
 ---
-Melodia [[Lucjusz Alvinbratten]], jedna z [[Ogrody Rosa]]
+Melodia [[Lucjusz Alvibraten]], jedna z [[Ogrody Rosa]]

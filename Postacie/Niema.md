@@ -3,8 +3,8 @@ tags:
   - TubylecWarstwy
   - Nute
 ---
-Nikt nie wie czyja to Melodia. Podejrzewamy, ze może [[Cisza]] lub [[Lucerna]]. Jedyna osoba, któa prawdopodobnie wie napewno kim jest [[Wróg]].
-Jest [[Symbol]] ekstremalnego [[Stan Many]], tj. magioklizmu. 
+Nikt nie wie czyja to Melodia. Podejrzewamy, ze może [[Cisza]] lub [[Lucerna]]. Jedyna osoba, która prawdopodobnie wie na pewno kim jest [[Wróg]].
+Jest [[Symbol]]em ekstremalnego [[Stan Many]] uzewnętrzniającego się magicznie, tj. [[magioklizm]].
 
 do [[Wróg]]
 “I can tell that you've never been true to me

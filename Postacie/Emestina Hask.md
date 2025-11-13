@@ -1,1 +1,1 @@
-spokrewiona z [[Lucjusz Alvinbratten]]
+spokrewiona z [[Lucjusz Alvibraten]]

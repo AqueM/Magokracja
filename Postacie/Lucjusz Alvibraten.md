@@ -7,7 +7,7 @@ tags:
 Jeden z [[Łowcy imperialni]], licencjat magii Zmysłów. Podróżuje z [[Lucy Shealez]]. 
 Jego Melodią jest [[Lilarosa]], a Powojem [[Abis-Lucio]]. Były uczeń/ukochany [[Lilianna Schieberg]], pracodawca/były właściciel [[Bonirius]].
 
-Brat [[Luilla Alvinbratten]] i [[Leofast Alvibraten]].
+Brat [[Luille Alvibraten]] i [[Leofast Alvibraten]].
 Jego ojciec, Xavrik, był kiedyś jednym z [[asasyni imperialni]]; jego zadaniem było pilnowaniem matki Lucjusza, Melgerd, ze względu na jej silne połączenia z religią wyznającą [[Kotara]].
 
 Jest szeroko znany z braku poszanowania dla własnego życia: swój status Łowcy zdobył jako żak/uczeń, poprzez niemal popełnienie samobójstwa w starciu z [[Eon]] - w emocjach przypadkiem otworzył przejście, przez które przeszedł i połączył się z nim [[Przepaść]], co zatrzymało eona i zostało uznane za zdany test Łowcy. Dotąd nie do końca wiadomo jednak, czym Przepaść jest, skąd pochodzi i dlaczego się pojawił. 
@@ -20,7 +20,7 @@ Próbując rozwiązać problem, Lilarosa "opętała" Lilianę, która była duż
 
 Niedawno, Lilarosa została wyjęta z Liliany, co umożliwiło Lucjuszowi i Lilianie szczerą rozmowę i próbę naprawienia/zapoczątkowania prawdziwego związku. Nie poprawiło to jednak jego relacji z Lilarosą, której Lucjusz wciąż nie słucha/nie słyszy. 
 # Relacje rodzinne
-Lucjusz nie zdawał sobie sprawy, jak jego dość "lekkomyślne" podejście do życia i bujanie w obłokach wpływa na jego rodzinę - zarówno normalnie, jako członka rodziny, jak i magicznie, nieświadomie dzielac się z nimi swoimi emocjami przez jego dysharmonię z jego Melodią. 
+Lucjusz nie zdawał sobie sprawy, jak jego dość "lekkomyślne" podejście do życia i bujanie w obłokach wpływa na jego rodzinę - zarówno normalnie, jako członka rodziny, jak i magicznie, nieświadomie dzieląc się z nimi swoimi emocjami przez jego dysharmonię z jego Melodią. 
 
-Chcąc być tak "specjalna" i wolna od odpowiedzialności jak jej brat, Luilla poszła w ślady matki - w  pewnym sensie osobowość Lucjusza sprawiła więc, że Luilla wpadła w sidła kultu Kotary, a potem także w ręce [[Antvel Heinster]]. 
-Chcą zapobiec "upadkowi" Luilli i uratować ją przed wpływem Heinstera, Leofast próbował zatrzymać ją w domu; w emocjach oboje rodzeństwa wdaje się w spór, co kończy się (pozorną) śmiercią Luilli. Próbując naprawić sytuację za którą się obwinia, Leofast sam kończy pod wpływem Heinstera. 
+Chcąc być tak "specjalna" i wolna od odpowiedzialności jak jej brat, Luille poszła w ślady matki - w  pewnym sensie osobowość Lucjusza sprawiła więc, że Luille wpadła w sidła kultu Kotary, a potem także w ręce [[Antvel Heinster]]. 
+Chcą zapobiec "upadkowi" Luille i uratować ją przed wpływem Heinstera, Leofast próbował zatrzymać ją w domu; w emocjach oboje rodzeństwa wdaje się w spór, co kończy się (pozorną) śmiercią Luille. Próbując naprawić sytuację za którą się obwinia, Leofast sam kończy pod wpływem Heinstera.

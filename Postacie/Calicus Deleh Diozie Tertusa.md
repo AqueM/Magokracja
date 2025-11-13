@@ -8,5 +8,5 @@ Proces [[Spójności|Calicus Atrefaktor]] dla jednej ze Spójności w [[Czwarty 
 
 Od dawna polowali na niego [[Czerwoni Egzekutorzy]] za zakłócanie przepływu [[Strumień]]. Ponieważ jednak manipulował Strumieniem tak, aby pozostawać nienamierzalnym, nie mogli go dopaść. 
 
-Po tym, jak zdradził i zniknął w trakcie [[Bitwa o Caspię]], z pomocą [[Olie Berggrath]], [[Charles Vatunet]] i [[Laura Comnouve]] - którzy udając jego przyjaciół śledzili od lat jego ruchy - [[Lucy Shealez]], [[Luca Ataliatte]] i [[Lucjusz Alvinbratten]] zdołali wyrwać się z jego sieci wpływów w [[Podwodny Pałac Komnena]] i odnaleźć go, dzięki czemu mogła go ostatecznie dopaść [[Echo Scari]].
+Po tym, jak zdradził i zniknął w trakcie [[Bitwa o Caspię]], z pomocą [[Olie Berggrath]], [[Charles Vatunet]] i [[Laura Comnouve]] - którzy udając jego przyjaciół śledzili od lat jego ruchy - [[Lucy Shealez]], [[Luca Ataliatte]] i [[Lucjusz Alvibraten]] zdołali wyrwać się z jego sieci wpływów w [[Podwodny Pałac Komnena]] i odnaleźć go, dzięki czemu mogła go ostatecznie dopaść [[Echo Scari]].
 Działanie to, choć dla nas było krótkie, w "rzeczywistości" trwało 2 tygodnie. 

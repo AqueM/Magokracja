@@ -5,6 +5,8 @@ tags:
 ---
 Jedna z pięciu osób, którzy mają możliwość zaprowadzić [[Pokój]].
 
-Od długiego czasu, mąci innym w planach, pozostając niewykrytym. Prawdopodobnie używa możliwosći wyjścia poza [[Strumień]]. 
+Od długiego czasu, mąci innym w planach, pozostając niewykrytym. Prawdopodobnie używa możliwości wyjścia poza [[Strumień]]. 
 
-Jego działania znane są jako [[manipulacja|Infekcja Pierwszej Cywilizacji]]. 
+Jego działania znane są jako [[manipulacja|Infekcja Pierwszej Cywilizacji]].
+
+[[Artrosa]], dotknięta ostatecznym odejściem istoty, z którą była związana, zasugerowała, że _wróg_ to niekoniecznie jedna osoba, że "każdy sobie może wybrać/stworzyć swojego".
