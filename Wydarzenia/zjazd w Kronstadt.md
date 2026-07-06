@@ -4,10 +4,19 @@ aliases:
 ---
 Wydarzenie w [[Kronstadt]], w którym spotykają się kluczowi ambasadorzy z całego świata. Stronę [[Imperium]] reprezentuje [[Besine de Korylion]].
 
-Wszystkie ludy spoza Imperium rozłożyły większe lub mniejsze obozowiska wokół miasta, powodując jego wizualny rozrost 10-krotnie.
+Wszystkie ludy spoza Imperium ([[Ludy Króla Królów]], [[Ludy Zaćmienia]]) rozłożyły większe lub mniejsze obozowiska wokół miasta, powodując jego wizualny rozrost 10-krotnie.
 Podczas zjazdu zorganizowane są tak spontaniczne, jak planowane wydarzenia, np. turniej wojowników czy wykłady o magii w cechu księgowym.
 
-Istnieje mocne przekonanie, że nad wszystkimi wisi gilotyna dokończenia [[Bitwa Zaćmienia]], które ma się wydarzyć blisko miasta, gdzie pogórze przechodzi w rozległe łąkowe tereny wyżyny.
+Istnieje mocne przekonanie, że nad wszystkimi wisi gilotyna dokończenia [[Bitwa Zaćmienia]], które ma się wydarzyć blisko miasta (czyli tam, gdzie zaczęło), gdzie pogórze przechodzi w rozległe łąkowe tereny wyżyny.
+
+Pośród przybyłych na zjazd osób z ludu Mistrzów Rzemiosł jest "wieszcz" (jeden z dwóch) opowiadający o [[Iuline Shayat]]. Nazywa się **Mishua** Talabec.
+
+[[grupa Lucy]] bierze aktywny udział w wydarzeniach jak również zbiera różne informacje, np:
+- informatorem asasynów w Wybornym Wieczorze (burdelu przebudowanym ostatnio na szlachecką rezydencję) jest **Laura-Elise** Milet, najemnik informator, mistrz cechowy
+- w cechu najemników rekrutują [[najemnicy Pallentos]], ale konkretnie mistrzów łowców
+- zaczepiony na ulicy [[Tapistos Glyieus]] zająkną się o zmaganiu z cieniami (pewno chodziło o osoby, które zyskały złączenie cienia z ciałem, np. grupa Lucy)
+- wśród ludu Spalonych nie ma woli walki, chcą żyć w pokoju
+- 
 
 ### Kluczowe osoby
 - **Besine** Heistrom z domu de Korylion
@@ -20,7 +29,7 @@ Istnieje mocne przekonanie, że nad wszystkimi wisi gilotyna dokończenia [[Bitw
 - [[Pelona Tegeura]]
 - **Deleh** Tadius Diozie Tertusa, pierwszy skarbnik, książę Tublek
 - [[Joanita Comnouve]]
-- **Vincente** DeBerellio, III-cia flota obronna, imperialny admirał na _podniebnym dewastatorze_ Młocie
+- **Vincente** Deberellio, III-cia flota obronna, imperialny admirał na _podniebnym dewastatorze_ Młocie
 - **Constaliyar** Soyescari, głowa rodu, książę Marte (emerytowany Pierwszy Rozjemca)
 - [[grupa Maygren]]
 - **Fransedo** Marya Casanais, Chorągiew Imperialna, przyboczny kapitan
@@ -44,3 +53,4 @@ Istnieje mocne przekonanie, że nad wszystkimi wisi gilotyna dokończenia [[Bitw
 - **Murad** Hattat Wesrabi, wojenny lider ludu Czarnych Piasków
 - **Seifa** Haga Pigaras Pretres, wojenny lider ludu Białych Piasków
 - **Tareefa** z ludu Złotych Piasków, jedna z Poszukujących
+- **Umar** Ahmadi Kalbara Sayyad, nizahri kahat
