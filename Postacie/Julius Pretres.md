@@ -2,6 +2,8 @@
 tags:
   - człowiek
   - Mag
+aliases:
+  - Julius Teodor Pretres
 ---
 Jeden z [[Klasa Livonii]].
 
