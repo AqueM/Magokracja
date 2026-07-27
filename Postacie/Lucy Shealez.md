@@ -31,6 +31,9 @@ Kolejna sprawa, istoty nieludzkie, odmienne, pochodzące z innego świata nie mo
 
 Oczywiście tak długo, jeśli przestrzega prawa i norm obowiązujących w imperium. Oczywiście niektóre prawa w związku z tym muszą być zmienione. Ale zdaję sobie sprawę, że nie wszystko można osiągnąć w jeden dzień.”
 
+Do Liamary w Kronstadt:
+"Chciałabym, by każdy z własnej woli mógł robić to co chce."
+
 Choć poniżej to opis wydarzeń, które jeszcze nie nastały, jest to jedna z podstaw jej Drogi Pokoju, co oznacza, iż [[Strumień]] jest jak lejek spychany choć częściowo ku tej drodze:
 - Lucy będzie do śmierci wierna swoim zasadom, ale nie sięgnie po Iskrę Hel, nie rozpali Hagart-Satra
 - świat stanie się rozwojowy ~~ techno-magiczny, bardziej merytoryczny w polityce, bardziej sprawiedliwy w sądach i społecznie
