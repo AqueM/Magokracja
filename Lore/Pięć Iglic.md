@@ -25,3 +25,5 @@ Rozdział „Badania nad warstwami” poświęcony jest warstwom i pozwala czyte
 
 **O tworzeniu Artefaktów.**
 Treść rozdziału „O tworzeniu Artefaktów” pozostaje nieznana ludziom (również poza Imperium), choć – co oczywiste – przypuszcza się, że traktuje on o kreowaniu [[Artefaktyczne Społeczeństwo]]. Do odczytania _pieśni_ zawierających ten rozdział potrzebny jest swego rodzaju [[Klucz]], którego do tej pory nie odnaleziono.
+
+Wreszcie, szóste źródło magicznej wiedzy można zaczerpnąć dopiero po uczynieniu wszystkich pięćdziesięciu _pieśni_ jako całości, pełnej jednej unikalnej (obecnie nieokreślonej) [[Melodia]]. Wiedza ta pozwala opanować najwyższe tajemnice magii opartej na [[Strumień]] oraz stosować rytuały kolorów głębokiej many. Wiedzę tą można zgłębić jedynie poprzez połączenie się ze [[Cesarz Złoty Powój|Złotym Powojem]].
